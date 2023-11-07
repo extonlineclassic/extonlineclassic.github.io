@@ -1,4 +1,3 @@
-# extonlineclassic.github.io
 Visit the 192.168.188.1 Admin Access Setup for Wireless Extenders to manage the settings of the newly purchased extenders.
 192.168. 188.1 is the default IP address used to configure and access the Wireless Range Extender. If you are looking forward to setting up your Wi-Fi extender for the home network you can simply visit 192.168. 188.1 wireless extender setup page using the IP address. The Wireless Range Extender will let you extend the range of current Wi-Fi signals so they can reach every corner of your home and share the seamless internet connectivity experience with the users. If you have no idea about how to set up the Wi-Fi Range Extender or login into it, keep reading the post and proceed with the simple instructions provided to complete the task.
 
