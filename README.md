@@ -31,7 +31,7 @@ Plugin your extender into the power outlet and let the power LED light.
 By using the router link LED, you can select the location where the extender to router connection will be optimal.
 Connect the Wi-Fi-enabled devices to your extender network and enjoy seamless internet connectivity.
 
-Unable to access the extender management interface? Here is what you can do:
+<h3>Unable to access the extender management interface? Here is what you can do:</h3>
 
 Sometimes when a user tries to access the 192.168.188.1 admin setup page, they receive an error message on their screen saying that the web page cannot be opened. If you are also getting the same error message on your device while trying to access the extender setup page, you can proceed with the troubleshooting steps below and get rid of the issue.
 
@@ -40,7 +40,7 @@ Set your computer IP address to access it automatically.
 Check whether you have modified the router port.
 Check if you have set your web browser to proxy mode. In case your browser is set to proxy mode, you cannot access the extended login page.
 
-Forgot the extender username and password? Reset it now
+<h3>Forgot the extender username and password? Reset it now</h3>
 
 If you have previously logged into the wifi extender 192.168.188.1 admin setup page, but forgot the username and password later, you can simply reset the extender to its factory default settings to recover the details. Resetting the extender will remove all the previously made customize settings from the device, and let you manage everything from the scratch.
 
